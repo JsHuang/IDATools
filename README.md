@@ -14,4 +14,5 @@ https://github.com/joxeankoret/diaphora
 
 - findcrypt    
 一款发现二进制中加密参数的插件    
-https://github.com/polymorf/findcrypt-yara
+https://github.com/polymorf/findcrypt-yara   
+IDA 7.5安装参考 [IDA7.5安装findcrypt3插件](https://blog.csdn.net/weixin_45055269/article/details/112688365)
