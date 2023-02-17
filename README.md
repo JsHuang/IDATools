@@ -16,3 +16,7 @@ https://github.com/joxeankoret/diaphora
 一款发现二进制中加密参数的插件    
 https://github.com/polymorf/findcrypt-yara   
 IDA 7.5安装参考 [IDA7.5安装findcrypt3插件](https://blog.csdn.net/weixin_45055269/article/details/112688365)
+
+- Rename   
+Claroty开发的便于修改IDA函数命名的插件，主要根据函数中的字符串提供函数的候选名    
+https://github.com/claroty/ResearchTools
