@@ -20,3 +20,7 @@ IDA 7.5安装参考 [IDA7.5安装findcrypt3插件](https://blog.csdn.net/weixin_
 - Rename   
 Claroty开发的便于修改IDA函数命名的插件，主要根据函数中的字符串提供函数的候选名    
 https://github.com/claroty/ResearchTools
+
+- firmeye   
+firmeye 是一个 IDA 插件，基于敏感函数参数回溯来辅助漏洞挖掘。我们知道，在固件漏洞挖掘中，从敏感/危险函数出发，寻找其参数来源，是一种很有效的漏洞挖掘方法，但程序中调用敏感函数的地方非常多，人工分析耗时费力，通过该插件，可以帮助排除大部分的安全调用，从而提高效率。    
+https://github.com/VulnTotal-Team/firmeye
