@@ -28,3 +28,7 @@ https://github.com/VulnTotal-Team/firmeye
 - HexRaysCodeXplorer 反编译代码辅助查看   
 REhints/HexRaysCodeXplorer: Hex-Rays Decompiler plugin for better code navigation    
 https://github.com/REhints/HexRaysCodeXplorer
+
+
+vmallet/ida-plugins: An interactive list of plugins for hex-rays' IDA Pro    
+https://github.com/vmallet/ida-plugins
