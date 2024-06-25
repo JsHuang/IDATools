@@ -32,5 +32,9 @@ https://github.com/REhints/HexRaysCodeXplorer
 https://github.com/Byzero512/hexraysIDAplus
 https://github.com/Byzero512/hexraysIDAplus/raw/main/pic/hexraysIDAplusFlodCode.gif
 
+- Ponce IDA污点分析、符号执行插件    
+  动态污点分析和符号执行，非静态  
+https://github.com/illera88/Ponce?tab=readme-ov-file
+
 vmallet/ida-plugins: An interactive list of plugins for hex-rays' IDA Pro    
 https://github.com/vmallet/ida-plugins
