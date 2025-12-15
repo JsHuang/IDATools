@@ -32,6 +32,11 @@ https://github.com/REhints/HexRaysCodeXplorer
 https://github.com/Byzero512/hexraysIDAplus
 https://github.com/Byzero512/hexraysIDAplus/raw/main/pic/hexraysIDAplusFlodCode.gif
 
+- P4nda0s/IDA-NO-MCP: Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP     
+https://github.com/P4nda0s/IDA-NO-MCP
+> AI 飞速发展，没有固定模式，工具应该保持简单。
+把 IDA 反编译结果导出为源码文件，直接丢进任意 AI IDE（Cursor / Claude Code / ...），天然适配索引、并行、切片（反编译超大函数）等优化。
+
 - Ponce IDA污点分析、符号执行插件    
   动态污点分析和符号执行，非静态  
 https://github.com/illera88/Ponce?tab=readme-ov-file
